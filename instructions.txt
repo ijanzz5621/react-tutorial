@@ -1,0 +1,13 @@
+1. Install / Create new react application using below command:
+
+    npm create vite@latest
+
+    a. Enter project name
+    b .Select react
+    c. Select Typescript
+
+2. Install Bootstrap
+
+    npm install bootstrap@5.2.3 or bootstrap@latest
+
+3. 
